@@ -1,4 +1,4 @@
-## LLaMa-2-Datacom: Model Trained With Datacom Knowledge
+## LLaMA-2-Datacom: Model Trained With Datacom Knowledge
 
 
 <p align="left">
